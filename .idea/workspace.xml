@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af78f09-02d1-49f9-9e1d-07137bd1ac42" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/OrderServiceImpl.java" afterDir="false" />
+    <list default="true" id="9af78f09-02d1-49f9-9e1d-07137bd1ac42" name="Changes" comment="final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/Cart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "dc35e80e4f1346e1155a78976d4bd22f",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687603644768</updated>
-      <workItem from="1687603645888" duration="2531000" />
+      <workItem from="1687603645888" duration="3889000" />
+      <workItem from="1687713831260" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1687605748419</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687605748420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final">
+      <created>1687607163377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687607163377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
